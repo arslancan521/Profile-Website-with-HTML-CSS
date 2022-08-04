@@ -8,8 +8,10 @@
 }
 
 .bottom-container {
-  width: 50%;
-  margin: 100px auto 100px auto;
+  width: 100%;
+
+  background-color: #11999E;
+  padding-bottom: 50px;
 }
 
 
@@ -102,8 +104,8 @@ body{
 }
 
 a {
-  color: #11999E;
-  margin: 10px;
+  color: white;
+  margin: 40px;
   text-decoration: none;
 
 }
@@ -150,6 +152,7 @@ p {
   font-size: 20px;
   font-family:'BhuTuka Expanded One', cursive;
   margin: 60px auto 60px auto;
+  margin-top: 40px;
 
 }
 
@@ -159,7 +162,7 @@ hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 5%;
-  margin: 100px auto 100px auto;;
+  margin: 100px auto 100px auto;
 
 }
 
@@ -174,5 +177,8 @@ hr {
 
 .copyright {
   font-size: 10px;
+  color: white;
+  
+
 
 }
